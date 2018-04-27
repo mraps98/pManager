@@ -1,0 +1,21 @@
+table, td, tr {
+  border: 1px solid #021ff9;
+  background-color: #eaf1f2;
+  padding: 4px;
+}
+
+td {
+  color: #002156;
+}
+
+body {
+  background-color: #aeaeae;
+}
+
+.box {
+  padding: 50px;
+  margin: auto;
+  height: 350px;
+  width: 400px;
+  border: 2px solid black;
+}
